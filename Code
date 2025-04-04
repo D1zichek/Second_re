@@ -7,6 +7,9 @@ std::cin >> a;
 std::cin >> b;
 if(a > 0){
 std::cout << a << ":" << b << std::endl;
+}else{
+
+  std::cout << b << ":" << a << std::endl;
 }
 
 }
