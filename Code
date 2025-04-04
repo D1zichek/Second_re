@@ -5,7 +5,8 @@ int a;
 int b;
 std::cin >> a;
 std::cin >> b;
+if(a > 0){
 std::cout << a << ":" << b << std::endl;
-
+}
 
 }
